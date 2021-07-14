@@ -22,7 +22,7 @@ jobs:
           
       # Builds chrisjburns.com repo
       - name: Build
-        run: hugo --minify --config=config/s3/config.toml -s website
+        run: hugo --minify --config=website/config/s3/config.toml
         
       # Deploys built website to S3
       - name: Deploy to S3
