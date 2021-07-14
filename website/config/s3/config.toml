@@ -2,4 +2,4 @@
 
 [[deployment.targets]]
 name = "awss3"
-URL = "s3://stopify-20210713132136841700000001?region=eu-west-3"
+URL = "s3://stopify-20210714175905446300000001?region=eu-west-3"
