@@ -4,4 +4,4 @@ baseURL = "http://stopify-20210715134713452400000001.s3-website.eu-west-3.amazon
 
 [[deployment.targets]]
 name = "awss3"
-URL = "s3://stopify-20210715134713452400000001?region=eu-west-3"
+URL = "s3://stopify-20210716065950216300000001?region=eu-west-3"
